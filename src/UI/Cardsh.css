@@ -1,0 +1,43 @@
+.Cardbody {
+    
+    min-width: 270px;
+    margin-left: 70px;
+   
+    background-color :#232323 ;
+   margin: 30px;
+   padding :10px;
+   border-radius: 15px;
+ 
+   
+}
+.Cardbody:hover {
+  
+    border: 5px solid rgb(51, 51, 51);
+   
+}
+.price {
+    font-size: 15px;
+    color: white;
+}
+.header{
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+}
+.header2, p{
+    color: #A5A5A5;
+    font-size: 15px;
+}
+.Cardheader{
+    display: flex;
+    flex-direction: row;
+}
+.locDateprop{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.headercontent {
+    margin-left: 20px;
+  
+}

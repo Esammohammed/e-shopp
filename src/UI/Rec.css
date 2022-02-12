@@ -1,0 +1,34 @@
+.Rec{
+    
+background: #000000;
+border-radius: 15px;
+}
+.right{
+    
+    overflow-x: scroll;
+    overflow-y: hidden;
+    display: flex;
+    flex-direction: row;
+   
+}
+.right::-webkit-scrollbar {
+    width: 1em;
+  }
+  .right::-webkit-scrollbar-track {
+    background: #292929;
+  }
+  
+
+  
+  /* Handle on hover */
+  .right::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+ 
+   
+  .right::-webkit-scrollbar-thumb {
+    background-color: rgb(105, 105, 105);
+  }
+.left {
+padding: 30px;
+}

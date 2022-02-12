@@ -1,0 +1,28 @@
+.select{
+    background-color: #232323;
+    width: 168.45px;
+    height: 37.5px;
+    color: rgb(255, 255, 255);
+    border-radius: 4.68775px;
+    font-size :17px;
+    margin-bottom: 15px;
+    border: none;
+    margin-top: 5px;
+    }
+    .none{
+      display: none;
+    }
+    .Filters{
+   
+    display: flex;
+    flex-direction: column;
+    
+    }
+    hr{
+      margin-left: 5px;
+      margin-right: 5px;
+    }
+    h3{
+      color: #A5A5A5;
+
+    }
